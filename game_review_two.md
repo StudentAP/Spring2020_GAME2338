@@ -36,10 +36,15 @@ favorite is the laser cannon that destroys everything that passes throught it.
 
 The game is really fun and is a good time waster like if you're waiting in an office. The scoring system is also really cool since you 
 unlock aliens when you meet a score threshold and that has made come back at times to try and improve my score. The only thing I really
-don't like is how the 
-upgrades are sold in batches and are seprate from the game. While you don't need the upgrades to beat the game, they're also a good 
-chunk of the game's over all entertainment.
+don't like is how the upgrades are sold in batches and are seprate from the game. While you don't need the upgrades to beat the game,
+they're also a good chunk of the game's over all entertainment.
 
 ## Additional Information
 
-Links to other reviews or other information you used in this review.
+If you're interested in Radiant Defense check out its webpage.
+
+http://www.hexage.net/defense/
+
+If you're interested in Hexage and its other titles check out their webpge too.
+
+http://www.hexage.net/

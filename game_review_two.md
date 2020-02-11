@@ -14,13 +14,14 @@ Microsoft store: https://www.microsoft.com/en-us/p/radiant-defense/9wzdncrfj4wd?
 
 ### Rating
 
-I give this game a 9 out of 10 It's fun and engaging, but the only problem I have is youhave to pay in order to unlock the rest of the game's guns and tools.
+I give this game a 9 out of 10 It's fun and engaging, but the only problem I have is that you have to pay in order to unlock the rest of the game's guns and tools. All the upgrades come out to 8 bucks.
 
 ## Summary
 
-This game is about... this should be at least 3-4 paragraphs summarizing the
-game play mechanics of the game. You should be answering the who, what,
-when, where, why, and how of the game itself.
+The game takes place in its own universe and chronologically it takes place after the game Radiant which is a space shooter game. The commander is the former pilot of the spaceship named The Radiant who comes across the main antagonist from the previous game The Supercreep 
+who once again is trying to conquer all of know space. The Supercreep is attempting to destory space installations by sending hordes of aliens to crash into the stations' power conduits and you job is to set up defenses to prevent that.
+
+
 
 ## Final Thoughts
 

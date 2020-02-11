@@ -1,6 +1,6 @@
-# Game Review for (GAME TITLE)
+# Game Review for Radiant Defense
 
-## Details
+## Radiant Defense is a tower defense game where you're commander in charge of defending the power conduit from invading aliens.
 
 ### Game Title
 

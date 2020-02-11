@@ -1,11 +1,16 @@
 # Game Review for Radiant Defense
 
-## Radiant Defense is a tower defense game where you're commander in charge of defending the power conduit from invading aliens.
+## Radiant Defense is a tower defense game where you're commander in charge of defending the power conduit from invading aliens by building powerful futuristic weapons and tools.
 
-### Game Title
+### Radiant Defense
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+Is available on the GooglePlay store, online Apple store, and the Microsoft store.
+
+GooglePlay: https://play.google.com/store/apps/details?id=net.hexage.defense
+
+Apple store: https://apps.apple.com/us/app/radiant-defense/id512203663
+
+Microsoft store: https://www.microsoft.com/en-us/p/radiant-defense/9wzdncrfj4wd?rtc=1&activetab=pivot:overviewtab
 
 ### Rating
 

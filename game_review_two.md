@@ -14,8 +14,7 @@ Microsoft store: https://www.microsoft.com/en-us/p/radiant-defense/9wzdncrfj4wd?
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+I give this game a 9 out of 10 It's fun and engaging, but the only problem I have is youhave to pay in order to unlock the rest of the game's guns and tools.
 
 ## Summary
 

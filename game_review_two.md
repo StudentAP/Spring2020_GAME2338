@@ -45,6 +45,6 @@ If you're interested in Radiant Defense check out its webpage.
 
 http://www.hexage.net/defense/
 
-If you're interested in Hexage and its other titles check out their webpge too.
+If you're interested in Hexage and their other titles check out their webpge too.
 
 http://www.hexage.net/

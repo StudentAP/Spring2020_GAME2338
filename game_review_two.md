@@ -19,17 +19,26 @@ I give this game a 9 out of 10 It's fun and engaging, but the only problem I hav
 ## Summary
 
 The game takes place in its own universe and chronologically it takes place after the game Radiant which is a space shooter game. The commander is the former pilot of the spaceship named The Radiant who comes across the main antagonist from the previous game The Supercreep 
-who once again is trying to conquer all of know space. The Supercreep is attempting to destory space installations by sending hordes of aliens to crash into the stations' power conduits and you job is to set up defenses to prevent that.
+who once again is trying to conquer all of know space. The Supercreep is attempting to destory space installations by sending hordes of aliens to crash into the stations' power conduits and your job is to set up defenses to prevent that.
 
+One very unique feature in the game are the modules which are placeble blocks that can have defenses mounted on but also used to cut off 
+areas and redirect the hordes into certain corridors or away from shortcuts to the power conduit. These allow the player to come up with 
+different strategies with every encounter or level and even mix up completed ones. The player could create a single corridor to the 
+power conduit but it's heavily defended or a long spiraling hallway with spreaded defense but the entrance containing weapons that 
+weaken the targets.
 
+On top of the cool future guns that are available in the game the player can also build mega structures. These giant defenses can turn 
+the tide in most situations which are helpful since at the end of every level you're meet with a devestating challenge like a giant 
+robot or a swarm of health regenerating bugs. These are by far the most expensive but most rewarding weapons in the game. My personal 
+favorite is the laser cannon that destroys everything that passes throught it.
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+The game is really fun and is a good time waster like if you're waiting in an office. The scoring system is also really cool since you 
+unlock aliens when you meet a score threshold and that has made come back at times to try and improve my score. The only thing I really
+don't like is how the 
+upgrades are sold in batches and are seprate from the game. While you don't need the upgrades to beat the game, they're also a good 
+chunk of the game's over all entertainment.
 
 ## Additional Information
 

@@ -29,7 +29,7 @@ mastermind that convinces others to see things their way. One very important thi
 so much so that there is no shortage of combinations you can make with them.
 
 Next is the world of Fallout: New Vegas. The game takes place at the Mojave desert; yet the world as we know it is gone as many buildings
-are destroyed, abandoned cars liter the roads, and strange new dangers prowl the desert. While the game's crazy setting has feeling of 
+are destroyed, abandoned cars liter the roads, and strange new dangers prowl the desert. The game has a crazy setting that has a feeling of 
 both desolation and hope as surviors struggle to adapt and rebuild the society they once knew. However, settlers are not the only ones 
 trying to survive. As the player plays the game they'll discover blood thirsty raiders, horrifying mutants, and warring factions each trying
 to claim a piece of the Majove desert.

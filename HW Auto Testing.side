@@ -1,0 +1,398 @@
+{
+  "id": "73dccdba-415b-4849-af03-52b673428da4",
+  "version": "2.0",
+  "name": "HW Auto Testing",
+  "url": "https://www.alamo.edu",
+  "tests": [{
+    "id": "79e4c7d2-f1ce-4874-a566-51f80d066316",
+    "name": "Test1",
+    "commands": [{
+      "id": "b6d18d3d-94d0-4d74-8ee4-e34025f57a3a",
+      "comment": "",
+      "command": "open",
+      "target": "/nvc/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "33ae7746-d175-4e06-bf3c-96156d57b131",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1552x840",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "3c2c465d-7116-4f00-b8e0-bf7f824b7927",
+      "comment": "",
+      "command": "click",
+      "target": "css=.nlc > a > span",
+      "targets": [
+        ["css=.nlc > a > span", "css:finder"],
+        ["xpath=//nav[@id='SchoolsNav']/ul/li[2]/a/span", "xpath:idRelative"],
+        ["xpath=//li[2]/a/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "39fcbf9a-2254-4cc6-bf45-9edcae0b5b6b",
+      "comment": "",
+      "command": "click",
+      "target": "css=.district > a > span",
+      "targets": [
+        ["css=.district > a > span", "css:finder"],
+        ["xpath=//nav[@id='SchoolsNav']/ul/li/a/span", "xpath:idRelative"],
+        ["xpath=//span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3580a613-970f-45a0-83c1-eed8249d71ef",
+      "comment": "",
+      "command": "click",
+      "target": "css=.nvc > a",
+      "targets": [
+        ["css=.nvc > a", "css:finder"],
+        ["xpath=//nav[@id='SchoolsNav']/ul/li[3]/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/nvc/')]", "xpath:href"],
+        ["xpath=//div[2]/div/nav/ul/li[3]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "be5b29a5-0513-49a7-a0aa-da82246595d5",
+      "comment": "",
+      "command": "click",
+      "target": "css=.menu-btn",
+      "targets": [
+        ["css=.menu-btn", "css:finder"],
+        ["xpath=(//button[@type='button'])[3]", "xpath:attributes"],
+        ["xpath=//div[2]/div[2]/div/button", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "fee6ca53-a8fe-49ed-8731-7c39703b1b2e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(2) .toggle",
+      "targets": [
+        ["css=.navItem:nth-child(2) .toggle", "css:finder"],
+        ["xpath=//ul[@id='PrimaryNav']/li[2]/div/span", "xpath:idRelative"],
+        ["xpath=//li[2]/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "39804f34-5328-4034-a7b8-c081057fae97",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(2) .column:nth-child(4) > li:nth-child(1) > a",
+      "targets": [
+        ["css=.navItem:nth-child(2) .column:nth-child(4) > li:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Distance Learning')]", "xpath:link"],
+        ["xpath=//ul[@id='PrimaryNav']/li[2]/div[2]/div/div/ul[3]/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/nvc/academics/distance-learning/')]", "xpath:href"],
+        ["xpath=//li[2]/div[2]/div/div/ul[3]/li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "131f67c0-e1ba-4024-b048-e8e3447e7edb",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=High School Programs",
+      "targets": [
+        ["linkText=High School Programs", "linkText"],
+        ["css=#Sidenav > .navItem:nth-child(5) > .title > a", "css:finder"],
+        ["xpath=(//a[contains(text(),'High School Programs')])[2]", "xpath:link"],
+        ["xpath=//ul[@id='Sidenav']/li[5]/div/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/nvc/academics/high-school/')])[2]", "xpath:href"],
+        ["xpath=//div[4]/div/div/ul/li[5]/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4d42b6a5-6e8d-4c3b-9ddc-6e95e0e94afa",
+      "comment": "",
+      "command": "click",
+      "target": "css=.open > .text",
+      "targets": [
+        ["css=.open > .text", "css:finder"],
+        ["xpath=//button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cb20adf9-de05-4b2f-8761-64baf831cea3",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(1) .toggle",
+      "targets": [
+        ["css=.navItem:nth-child(1) .toggle", "css:finder"],
+        ["xpath=//ul[@id='PrimaryNav']/li/div/span", "xpath:idRelative"],
+        ["xpath=//div/span", "xpath:position"],
+        ["xpath=//span[contains(.,'Toggle submenu')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4cff4603-1711-4ed4-8831-846490c2f699",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(1) .column:nth-child(3) > li:nth-child(1) > a",
+      "targets": [
+        ["css=.navItem:nth-child(1) .column:nth-child(3) > li:nth-child(1) > a", "css:finder"],
+        ["xpath=(//a[contains(text(),'Contact Us')])[2]", "xpath:link"],
+        ["xpath=//ul[@id='PrimaryNav']/li/div[2]/div/div/ul[2]/li/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/nvc/about-us/contact/')])[2]", "xpath:href"],
+        ["xpath=//ul[2]/li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2bc99b86-72f1-41f0-ab83-ac1065db479a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.text",
+      "targets": [
+        ["css=.text", "css:finder"],
+        ["xpath=//button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9c7b6917-effe-4be7-84d8-b61c6efda1a5",
+      "comment": "",
+      "command": "click",
+      "target": "css=#PrimaryNav > .navItem:nth-child(4) .toggle",
+      "targets": [
+        ["css=#PrimaryNav > .navItem:nth-child(4) .toggle", "css:finder"],
+        ["xpath=//ul[@id='PrimaryNav']/li[4]/div/span", "xpath:idRelative"],
+        ["xpath=//li[4]/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "06fcbed6-1e80-4b4b-90c3-eb7663ff5cb8",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(4) .column:nth-child(3) > li:nth-child(1) > a",
+      "targets": [
+        ["css=.navItem:nth-child(4) .column:nth-child(3) > li:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Future Students')]", "xpath:link"],
+        ["xpath=//ul[@id='PrimaryNav']/li[4]/div[2]/div/div/ul[2]/li/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/nvc/experience-nvc/future-students/')])[2]", "xpath:href"],
+        ["xpath=//li[4]/div[2]/div/div/ul[2]/li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7e10a417-148b-4556-86d1-489ab3df357a",
+      "comment": "",
+      "command": "click",
+      "target": "css=.text",
+      "targets": [
+        ["css=.text", "css:finder"],
+        ["xpath=//button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cc9852b1-f46f-4907-bcbe-bb1988fd70a2",
+      "comment": "",
+      "command": "click",
+      "target": "css=#PrimaryNav > .navItem:nth-child(3) .toggle",
+      "targets": [
+        ["css=#PrimaryNav > .navItem:nth-child(3) .toggle", "css:finder"],
+        ["xpath=//ul[@id='PrimaryNav']/li[3]/div/span", "xpath:idRelative"],
+        ["xpath=//li[3]/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0920f16f-8f41-484a-bb84-cffe517bef59",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(3) .column:nth-child(4) > li:nth-child(1) > a",
+      "targets": [
+        ["css=.navItem:nth-child(3) .column:nth-child(4) > li:nth-child(1) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'Testing Center')]", "xpath:link"],
+        ["xpath=//ul[@id='PrimaryNav']/li[3]/div[2]/div/div/ul[3]/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/nvc/admissions-and-aid/testing-center/')]", "xpath:href"],
+        ["xpath=//li[3]/div[2]/div/div/ul[3]/li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "c8b51ee6-2d74-427d-a4c9-15310fc18b21",
+      "comment": "",
+      "command": "click",
+      "target": "css=.text",
+      "targets": [
+        ["css=.text", "css:finder"],
+        ["xpath=//button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4663beef-2bc2-423f-b1b7-9e2a4ce51e6d",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(5) .toggle",
+      "targets": [
+        ["css=.navItem:nth-child(5) .toggle", "css:finder"],
+        ["xpath=//ul[@id='PrimaryNav']/li[5]/div/span", "xpath:idRelative"],
+        ["xpath=//li[5]/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "cb2b562c-0b51-42d2-b9d5-177e649de9cc",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(5) .column:nth-child(4) > li:nth-child(1) > a",
+      "targets": [
+        ["css=.navItem:nth-child(5) .column:nth-child(4) > li:nth-child(1) > a", "css:finder"],
+        ["xpath=(//a[contains(text(),'Events')])[3]", "xpath:link"],
+        ["xpath=//ul[@id='PrimaryNav']/li[5]/div[2]/div/div/ul[3]/li/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/nvc/calendar/')]", "xpath:href"],
+        ["xpath=//li[5]/div[2]/div/div/ul[3]/li/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "d3bb7fea-ff26-418d-8c49-f54b95688b11",
+      "comment": "",
+      "command": "click",
+      "target": "css=.text",
+      "targets": [
+        ["css=.text", "css:finder"],
+        ["xpath=//button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "03fe085d-cca5-4be3-bb5a-1d828272f96e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(5) .toggle",
+      "targets": [
+        ["css=.navItem:nth-child(5) .toggle", "css:finder"],
+        ["xpath=//ul[@id='PrimaryNav']/li[5]/div/span", "xpath:idRelative"],
+        ["xpath=//li[5]/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "3942daa4-5270-42ce-bed3-9c667fce7ce2",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(5) .column:nth-child(3) > li:nth-child(2) > a",
+      "targets": [
+        ["css=.navItem:nth-child(5) .column:nth-child(3) > li:nth-child(2) > a", "css:finder"],
+        ["xpath=//a[contains(text(),'COVID-19 Information & Resources')]", "xpath:link"],
+        ["xpath=//ul[@id='PrimaryNav']/li[5]/div[2]/div/div/ul[2]/li[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, '/nvc/news-events/covid-19-info/')])[2]", "xpath:href"],
+        ["xpath=//li[5]/div[2]/div/div/ul[2]/li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "71daab0e-e868-47ff-94ab-e96b2b9fea60",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=COVID-19 Employee",
+      "targets": [
+        ["linkText=COVID-19 Employee", "linkText"],
+        ["css=.active .navItem:nth-child(2) a", "css:finder"],
+        ["xpath=//a[contains(text(),'COVID-19 Employee')]", "xpath:link"],
+        ["xpath=//ul[@id='Sidenav']/li[2]/ul/li[2]/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/nvc/news-events/covid-19-info/covid-19-facultystaff/')]", "xpath:href"],
+        ["xpath=//li[2]/ul/li[2]/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'COVID-19 Employee')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "86b3f405-b486-4487-8a56-b148dfda1e73",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=COVID-19 Student",
+      "targets": [
+        ["linkText=COVID-19 Student", "linkText"],
+        ["css=#Sidenav > .navItem:nth-child(1) a", "css:finder"],
+        ["xpath=//a[contains(text(),'COVID-19 Student')]", "xpath:link"],
+        ["xpath=//ul[@id='Sidenav']/li/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/nvc/news-events/covid-19-info/covid-19-student/')]", "xpath:href"],
+        ["xpath=//div[4]/div/div/ul/li/div/a", "xpath:position"],
+        ["xpath=//a[contains(.,'COVID-19 Student')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "e09a96c6-2d94-4ddc-8006-980fa5d6d91e",
+      "comment": "",
+      "command": "click",
+      "target": "css=.text",
+      "targets": [
+        ["css=.text", "css:finder"],
+        ["xpath=//button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1ff45000-9095-4b83-9ea4-c2001a59d47c",
+      "comment": "",
+      "command": "click",
+      "target": "css=.navItem:nth-child(6) a",
+      "targets": [
+        ["css=.navItem:nth-child(6) a", "css:finder"],
+        ["xpath=//a[contains(text(),'Sitemap')]", "xpath:link"],
+        ["xpath=//ul[@id='PrimaryNav']/li[6]/div/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, '/nvc/sitemap/')]", "xpath:href"],
+        ["xpath=//li[6]/div/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "595e0ebb-355b-4431-ad6e-c20495022d63",
+      "comment": "",
+      "command": "click",
+      "target": "css=.text",
+      "targets": [
+        ["css=.text", "css:finder"],
+        ["xpath=//button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "b51c5c95-27d6-4ff8-901f-a8f6949a6313",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Library",
+      "targets": [
+        ["linkText=Library", "linkText"],
+        ["css=.QuickLinks li:nth-child(2) > a", "css:finder"],
+        ["xpath=(//a[contains(text(),'Library')])[3]", "xpath:link"],
+        ["xpath=(//a[contains(@href, '/nvc/academics/library/')])[3]", "xpath:href"],
+        ["xpath=//div[5]/div/ul/li[2]/a", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "03060c24-8aa4-4119-8a5b-31b0d5a6e274",
+      "comment": "",
+      "command": "click",
+      "target": "css=.text",
+      "targets": [
+        ["css=.text", "css:finder"],
+        ["xpath=//button/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a7640ded-f972-4e1d-8589-560af7426aac",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=Catalog & Schedule",
+      "targets": [
+        ["linkText=Catalog & Schedule", "linkText"],
+        ["css=.QuickLinks li:nth-child(4) > a", "css:finder"],
+        ["xpath=(//a[contains(text(),'Catalog & Schedule')])[2]", "xpath:link"],
+        ["xpath=(//a[@href='http://mynvccatalog.alamo.edu/content.php?catoid=175&navoid=11232'])[2]", "xpath:href"],
+        ["xpath=//div/ul/li[4]/a", "xpath:position"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win713",
+      "windowTimeout": 2000
+    }, {
+      "id": "a952162b-2a8a-43db-b0e9-4508eeb3810d",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win713}",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "be33e2cb-77f5-4765-9e73-c458a4d004cb",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["79e4c7d2-f1ce-4874-a566-51f80d066316"]
+  }],
+  "urls": ["https://www.alamo.edu/"],
+  "plugins": []
+}

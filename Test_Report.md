@@ -38,16 +38,16 @@ best case scenario is to have both large player base and appeal to keep getting 
 
 | Name of Test | Status – Pass/Fail | Tester | Test ID | Associated Requirement |
 |---|---|---|---|---|
-|Zombie Team Balancing|Pass|Angel V. Pina|#3|Must gather enough information to determine if team changes are needed.|
-|Survivor Team Balancing|Pass|Angel V. Pina|#3|Must gather enough information to determine if team changes are needed.|
-|Test Mulitplayer Bugs/Exploits|||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
-||||||
+|Zombie Team Balancing|Pass|Angel V. Pina|#1|Must gather enough information to determine if team changes are needed.|
+|Survivor Team Balancing|Pass|Angel V. Pina|#2|Must gather enough information to determine if team changes are needed.|
+|Test Mulitplayer Bugs/Exploits|Pass|Angel V. Pina|#3|Gather information to form test based on Test Plan guidelines.|
+|Quitting Cheat|Pass|Angel V. Pina|#4|Gather enough information and replicate to conform exploit.|
+|SuperKick Cheat|Pass|Angel V. Pina|#5|Gather enough information and replicate to conform exploit.|
+|Duplication Glitch|Pass|Angel V. Pina|#6|Gather enough information and replicate to conform exploit.|
+|Max Level Glitch|Pass|Angel V. Pina|#7|Gather enough information and replicate to conform exploit.|
+|Double Zombie|Fail|Angel V. Pina|#8|Gather enough information and replicate to conform exploit.|
+|Zombie Trap|Pass|Angel V. Pina|#9|Enough information documents the past exploit and how it was removed.|
+|Host Latency|Pass|Angel V. Pina|#10|Enough informtaion documents the past exploit and how it was removed.|
 
 ## SECTION 3: SUMMARY OF DEFECTS
 

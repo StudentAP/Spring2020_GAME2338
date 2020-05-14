@@ -40,12 +40,12 @@ best case scenario is to have both large player base and appeal to keep getting 
 |---|---|---|---|---|
 |Zombie Team Balancing|Pass|Angel V. Pina|#1|Must gather enough information to determine if team changes are needed.|
 |Survivor Team Balancing|Pass|Angel V. Pina|#2|Must gather enough information to determine if team changes are needed.|
-|Test Mulitplayer Bugs/Exploits|Pass|Angel V. Pina|#3|Gather information to form test based on Test Plan guidelines.|
-|Quitting Cheat|Pass|Angel V. Pina|#4|Gather enough information and replicate to conform exploit.|
-|SuperKick Cheat|Pass|Angel V. Pina|#5|Gather enough information and replicate to conform exploit.|
-|Duplication Glitch|Pass|Angel V. Pina|#6|Gather enough information and replicate to conform exploit.|
-|Max Level Glitch|Pass|Angel V. Pina|#7|Gather enough information and replicate to conform exploit.|
-|Double Zombie|Fail|Angel V. Pina|#8|Gather enough information and replicate to conform exploit.|
+|Test Mulitplayer Bugs/Exploits|Pass|Angel V. Pina|#3|Gather information to form tests based on Test Plan guidelines.|
+|Quitting Cheat|Pass|Angel V. Pina|#4|Gather enough information and replicate to confirm exploit.|
+|SuperKick Cheat|Pass|Angel V. Pina|#5|Gather enough information and replicate to confirm exploit.|
+|Duplication Glitch|Pass|Angel V. Pina|#6|Gather enough information and replicate to confirm exploit.|
+|Max Level Glitch|Pass|Angel V. Pina|#7|Gather enough information and replicate to confirm exploit.|
+|Double Zombie|Fail|Angel V. Pina|#8|Gather enough information and replicate to confirm exploit.|
 |Zombie Trap|Pass|Angel V. Pina|#9|Enough information documents the past exploit and how it was removed.|
 |Host Latency|Pass|Angel V. Pina|#10|Enough informtaion documents the past exploit and how it was removed.|
 
@@ -55,4 +55,7 @@ best case scenario is to have both large player base and appeal to keep getting 
 
 | Defect ID | Description | Severity | Associated Test ID or Requirement |
 |---|---|---|---|
-| | | | |
+|1|Force closing application denies rewards for all players involved in match.|Severe|#4|
+|2|Exploit re-enables old gag that makes winning competitve games easier.|low|#5|
+|3|Duplication glitch done by overwhelming UI systems with multiple inputs.|mild|#6|
+|4|Maxing out player level, cause the player to circumvent game.|low|#7|

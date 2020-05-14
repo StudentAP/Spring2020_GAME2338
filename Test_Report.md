@@ -13,13 +13,11 @@ matching results with other existing documentations. In some cases the tests cou
 possible to produce or the rarity of the product. These specific case are documented accordingly.
 
 #### Number of Defects
-
-(Paragraph)
+There is a total of seven defects that meet the Test Plan guidelines, with two being no longer defective and one being inconclusive. Every defect does affect the game play and/or its consumer base in way a that is important based on the guidelines. The two tests that weren't were fixed or removed and is no longer considered a defect. The one test that is inconclusive is due to enough evidence to create said test, but not enough to confirm it as a defect.
 
 #### Requirements Status
-
-(Paragraph)
-* According to your test plan requirements did your test case runs meet your listed requirements.
+All test meet beyond the requirements stated in the Test Plan. Prior testing I had personally accumulated immense information and experience. In fact, i had recommended this game because of how much i already knew about it. I also have the needed hardware to run the 
+test specified.
 
 ### Test Environment
 

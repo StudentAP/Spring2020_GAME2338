@@ -20,18 +20,17 @@ All test meet beyond the requirements stated in the Test Plan. Prior testing I h
 test specified.
 
 ### Test Environment
-
-(Paragraphs)
+The testing enviroment was mainly done within my living arangement with online meetings and messaging to keep the project updated.
+Meetings where scheduled and attended accordingly.
 
 #### Hardware Configuration
-
-(Paragraph)
+There was no hardware configuration due to said hardware already being available and ready for testing.
 
 ### Recommendation
-
-(Paragraphs)
-* Very technical summary of the results and where things can be improved or what course of action the game should take as a result of the testing.
-
+Little can be done to the game now in its current state. However, the data here can used to foster a loyal player base in future releases.
+While games do make the majority of their profits durng initial launch, having an active player base long after the release bring in 
+steady income from project that now requies little to no resources to manage and allowing much greater funding for future projects. The 
+best case scenario is to have both large player base and appeal to keep getting new players while retaining existing ones.
 
 ## SECTION 2: DETAILED TEST RESULTS
 

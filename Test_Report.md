@@ -38,7 +38,16 @@ best case scenario is to have both large player base and appeal to keep getting 
 
 | Name of Test | Status – Pass/Fail | Tester | Test ID | Associated Requirement |
 |---|---|---|---|---|
-| | | | | |
+|Zombie Team Balancing|Pass|Angel V. Pina|#3|Must gather enough information to determine if team changes are needed.|
+|Survivor Team Balancing|Pass|Angel V. Pina|#3|Must gather enough information to determine if team changes are needed.|
+|Test Mulitplayer Bugs/Exploits|||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
+||||||
 
 ## SECTION 3: SUMMARY OF DEFECTS
 

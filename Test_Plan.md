@@ -36,43 +36,39 @@ There are no funds allocated.
 
 ## Testing
 ### Requirements
-
-Resource requirements, equipment, software/hardware, tester with special skill set
+A type of Xbox One console, Computer with internet, and prior knowledge of the game before testing.
 
 ### Testing Materials/Test Tools
 
-Documentation you will use or produce or testing tools used
+Self documentation will be done on Github.
 
 ### Test Training
 
-Personnel training, types of training/training staff - could include acceptance testing or
-playtesting
+Tester must have prior knowledge of the game and all its multiplayer modes.
 
 # Section 3: Specifications and Evaluations
 
 ## Requirement Specifications
 
 ### Business Rules/Functions
-
-* List any business requirements (list)
+All testing must be done within copyright laws.
 
 ### Software/Game Functions
-
-* List any software requirements (list)
+Tester must be able to run Dying Light on the chosen console and be able to access Github.
 
 ### Test/Function Relationships
-
-Match individual tests or test suites to requirements (this is usually a table)
-Beginning stages of developing your test suites
+All tests must follow the criteria. If a test doesn't, then it is not considered viable for testing.
 
 ### Test Progression
-Describe how progression is made from one test to another
+First we must create a list of exploits and bugs to invistigate. Then we must gather enough information to form a test. Next we test if
+we can replicate the exploit and if not we must decide if it passes or fails based on how much information we have.
 
 ## Methods and Constraints
 
 ### Test Methodology
-
-Describe testing strategy/types of testing or any other methodology
+We form tests based on information gathered that makes an exploit viable for testing. For example: if there is an exploit that 
+turns the player blue it really doesnt impact the game that much, so it's not considered viable. 
+Most of the tests done are completed through replicating the exploit. If it works than it is a passes and if it doesn't we need to find out why.
 
 ### Extent of Testing
 

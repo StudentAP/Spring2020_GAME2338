@@ -71,9 +71,7 @@ turns the player blue it really doesnt impact the game that much, so it's not co
 Most of the tests done are completed through replicating the exploit. If it works than it is a passes and if it doesn't we need to find out why.
 
 ### Extent of Testing
-
-Full or partial testing and explanation
+Full testing is required. Since any problem that is claim to exist must be backed up with as much data as possible.
 
 ### Constraints
-
-Describe any test condition constraints such as interfaces or data
+The only constraint is how old the game is. The game is has already gone through a lot of changes whatever was broken then maybe not exist now.
